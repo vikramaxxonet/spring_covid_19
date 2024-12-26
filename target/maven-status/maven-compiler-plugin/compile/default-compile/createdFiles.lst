@@ -1,0 +1,4 @@
+io\alanbinu\coronavirustracker\CoronavirusTrackerApplication.class
+io\alanbinu\coronavirustracker\services\CoronaVirusDataService.class
+io\alanbinu\coronavirustracker\controllers\HomeController.class
+io\alanbinu\coronavirustracker\models\LocationStats.class
